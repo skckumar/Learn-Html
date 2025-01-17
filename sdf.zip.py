@@ -26,11 +26,11 @@ st.html("""
  
 
 """)
-st.sidebar.title("Learn html with Sk")
+st.sidebar.title("Learn with sk")
 st.sidebar.image("we.png")
 st.sidebar.link_button("Youtube","https://youtube.com/shorts/t2s5MqeU9jI?si=bebqULeE31Bn7Qq2")
 st.sidebar.link_button("instagram","https://www.instagram.com/shivam_python_700?igsh=Z3lpNjNkczB2aHp5")
-st.title("Learn Html with Sk")
+st.title("Learn with sk")
 st.code("""
 <!DOCTYPE html>
 <html>
