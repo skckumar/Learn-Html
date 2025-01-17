@@ -1,2 +1,2 @@
 # Learn-Html
-Learn Html with sk
+Learn with sk
